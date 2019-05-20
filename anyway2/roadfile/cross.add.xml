@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+   <tlLogic id="0" programID="1" offset="0" type="static">
+      <phase duration="31" state="GrGr"/>
+      <phase duration="6" state="yryr"/>
+      <phase duration="31" state="rGrG"/>
+      <phase duration="6" state="ryry"/>
+   </tlLogic>
+
+   <e1Detector id="0" lane="4i_0" pos="450" freq="30" file="cross.out" friendlyPos="x"/>
+</additional>
+
